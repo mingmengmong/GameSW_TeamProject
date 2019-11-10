@@ -7,7 +7,7 @@ public class ButtonClick : MonoBehaviour
 {
     public void ChangeScene()
     {
-        SceneManager.LoadScene(sceneName: "Game_stage");
+        SceneManager.LoadScene(sceneName: "Menu");
     }
     // Start is called before the first frame update
     void Start()
