@@ -8,9 +8,9 @@ using UnityEngine.UI;
 
 public class Datasets : MonoBehaviour
 {
-    private static int gold;
+    private int gold;
     private const string GOLD_KEY = "gold";
-    public static int Gold
+    public int Gold
     {
         get { return gold; }
         set
