@@ -24,4 +24,9 @@ public class LeftField : MonoBehaviour {
 		datasets.Gold = gold;
 		goldText.text = gold.ToString("N0");
 	}
+
+	void Update() {
+		gold = datasets.Gold;
+		goldText.text = gold.ToString("N0");
+	}
 }

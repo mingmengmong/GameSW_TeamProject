@@ -83,6 +83,9 @@ public class Datasets : MonoBehaviour
         if(!PlayerPrefs.HasKey(EGG_LIST_KEY))
         {
             eggList = new List<int>();
+            for (int i = 0; i < 10; ++i) {
+                eggList.Add(0);
+            }
             PlayerPrefs.SetString(EGG_LIST_KEY,JsonUtil.ToJson(eggList));
         }
         else
