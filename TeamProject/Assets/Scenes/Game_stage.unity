@@ -925,6 +925,109 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: move.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderSpriteArr.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: move.Array.data[1]
+      value: 
+      objectReference: {fileID: 3221487811672024397, guid: 188d644a95731b3478b997cb551e7894,
+        type: 3}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: move.Array.data[2]
+      value: 
+      objectReference: {fileID: 2840490946398610653, guid: 188d644a95731b3478b997cb551e7894,
+        type: 3}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: move.Array.data[3]
+      value: 
+      objectReference: {fileID: -9063078630400483616, guid: 188d644a95731b3478b997cb551e7894,
+        type: 3}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderSpriteArr.Array.data[1]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderSpriteArr.Array.data[3]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderSpriteArr.Array.data[4]
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderSpriteArr.Array.data[5]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderSpriteArr.Array.data[6]
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderSpriteArr.Array.data[7]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[0]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[1]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[2]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[3]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[4]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[5]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[6]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: moveOrderTimeArr.Array.data[7]
+      value: 100
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00dab2a47d86b284da3bb52bb30a633d, type: 3}
 --- !u!1 &630286842
