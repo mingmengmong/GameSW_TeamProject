@@ -1028,6 +1028,11 @@ PrefabInstance:
       propertyPath: moveOrderTimeArr.Array.data[7]
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: -4318174840316576527, guid: 00dab2a47d86b284da3bb52bb30a633d,
+        type: 3}
+      propertyPath: isMoving
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00dab2a47d86b284da3bb52bb30a633d, type: 3}
 --- !u!1 &630286842
