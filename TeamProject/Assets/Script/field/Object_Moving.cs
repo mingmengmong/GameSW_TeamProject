@@ -10,7 +10,7 @@ public class Object_Moving : MonoBehaviour
     public int[] moveOrderSpriteArr;
     // 이미지 순서 별 시간 ( ms )
     public int[] moveOrderTimeArr;
-    // 첫 이미지 랜덤 표기 여기
+    // 첫 이미지 랜덤 표기 여
     public bool isRandom = false;
 
     private int moveOrderIndex = 0;
@@ -31,8 +31,6 @@ public class Object_Moving : MonoBehaviour
             time = 0;
             moveOrderIndex++;
             moveOrderIndex %= moveOrderSpriteArr.Length;
-
-            Debug.Log(moveOrderIndex);
             
             GetComponent<SpriteRenderer>().sprite = move[moveOrderSpriteArr[moveOrderIndex]];
         }
