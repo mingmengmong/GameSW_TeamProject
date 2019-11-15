@@ -2,25 +2,46 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FieldCreateor : MonoBehaviour
-{
-    // Start is called before the first frame update
+public class FieldCreateor : MonoBehaviour {
+	public GameObject MyObjectList;
+	public GameObject ObjectList;
 
-    private GameObject leftField;
-    private GameObject rightField;
-    void Start() {
-        leftField = this.transform.GetChild(0).gameObject;
-        rightField = this.transform.GetChild(1).gameObject;
+	private Datasets datasets;
+	private List<int> chickList;
+	
+	void Start() {
+		datasets = GameObject.Find("Dataset").GetComponent<Datasets>();
+		chickList = datasets.ChickList;
+		for (int i = 0; i < chickList.Count; ++i) {
+			GameObject obj = Instantiate(ObjectList.transform.GetChild(chickList[i]).gameObject);
+			obj.transform.SetParent(MyObjectList.transform);
+			obj.transform.position = getPosition();
+			obj.GetComponent<Object_Moving>().isMoving = true;
+			obj.SetActive(true);
+		}
+	}
 
-        Debug.Log(leftField);
-        Debug.Log(rightField);
+	void Update() {
+		if (chickList.Count != datasets.ChickList.Count) {
+			// 데이터가 추가될시
+			for (int i = 0; i < datasets.ChickList.Count; ++i) {
+				if (!chickList.Contains(datasets.ChickList[i])) {
+					GameObject obj = Instantiate(ObjectList.transform.GetChild(datasets.ChickList[i]).gameObject);
+					obj.transform.SetParent(MyObjectList.transform);
+					obj.transform.position = getPosition();
+					obj.SetActive(true);
+				}
+			}
+		}
 
-        BoxCollider2D left = leftField.GetComponent<BoxCollider2D>();
-        Debug.Log(left.size);
-        
-        Vector3 m_leftDown = Camera.main.ScreenToWorldPoint( new Vector3( 0,0,0) );
-        Vector3 m_rightUpper = Camera.main.ScreenToWorldPoint( new Vector3( Screen.width, Screen.height,0 ) );
-        Debug.Log(m_leftDown);
-        Debug.Log(m_rightUpper);
-    }
+		chickList = datasets.ChickList;
+	}
+
+	private Vector2 getPosition() {
+		return new Vector3(
+			Random.Range(StaticData.OBJECT_X_POS_MIN, StaticData.OBJECT_X_POS_MAX),
+			Random.Range(StaticData.OBJECT_Y_POS_MIN, StaticData.OBJECT_Y_POS_MAX),
+			-5f
+		);
+	}
 }
