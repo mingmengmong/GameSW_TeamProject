@@ -37,7 +37,7 @@ public class FieldCreateor : MonoBehaviour {
 		chickList = datasets.ChickList;
 	}
 
-	private Vector2 getPosition() {
+	private Vector3 getPosition() {
 		return new Vector3(
 			Random.Range(StaticData.OBJECT_X_POS_MIN, StaticData.OBJECT_X_POS_MAX),
 			Random.Range(StaticData.OBJECT_Y_POS_MIN, StaticData.OBJECT_Y_POS_MAX),
