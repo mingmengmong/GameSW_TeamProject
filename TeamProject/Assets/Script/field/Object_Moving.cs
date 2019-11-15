@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Object_Moving : MonoBehaviour
 {
@@ -85,13 +87,13 @@ public class Object_Moving : MonoBehaviour
                     if (objPosition.y > StaticData.OBJECT_Y_POS_MAX)
                     {
 //                        this.gameObject.transform.transform.Translate(Vector2.down * Time.deltaTime * 5);
-                        direction.y *= -1;
+                        direction.y = -1 * Math.Abs(direction.y);
                     }
 
                     if (objPosition.y < StaticData.OBJECT_Y_POS_MIN)
                     {
 //                        this.gameObject.transform.Translate(Vector2.up * Time.deltaTime * 5);
-                        direction.y *= -1;
+                        direction.y = Math.Abs(direction.y);
                     }
 
                     if (isLeft)
@@ -119,8 +121,9 @@ public class Object_Moving : MonoBehaviour
         
     }
 
-    private Vector2 getDirection()
-    {
+    private Vector2 getDirection() {
+        Vector3 nowPosition = this.gameObject.transform.position;
+        
         float x = Random.Range(-1f, 1f);
         if (x <= 0)
         {
@@ -131,6 +134,7 @@ public class Object_Moving : MonoBehaviour
             x *= -1;
             isLeft = false;
         }
+
         float y = Random.Range(-1f, 1f);
         return new Vector2(x,y).normalized;
     }
