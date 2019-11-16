@@ -21,9 +21,9 @@ public class Object_Moving : MonoBehaviour
     
     
     public bool isMoving = false;
-    public float movingSpeed = 3.5f;
-    public float movingTime = 800;
-    public float restTime = 800;
+    public float movingSpeed = 1.5f;
+    public float movingTime = 400;
+    public float restTime = 400;
     private float mTime = 0f;
     // false : 휴식, true : 이동
     private bool mBool = false;
