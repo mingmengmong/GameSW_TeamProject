@@ -103,4 +103,4 @@ MonoBehaviour:
   isMoving: 1
   movingSpeed: 2
   movingTime: 400
-  restTime: 300
+  restTime: 100
