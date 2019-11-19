@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class GameStageBtn : MonoBehaviour {
 	private Datasets datasets;
-
+    AudioSource audiosource;
 	void Start() {
 		datasets = GameObject.Find("Dataset").GetComponent<Datasets>();
 	}
@@ -35,5 +35,11 @@ public class GameStageBtn : MonoBehaviour {
     public void goToFieldClick()
     {
         SceneManager.LoadScene(2);
+    }
+
+    public void clicksound()
+    {
+        audiosource = GetComponent<AudioSource>();
+        audiosource.Play();
     }
 }
