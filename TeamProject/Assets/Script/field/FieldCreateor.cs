@@ -23,6 +23,7 @@ public class FieldCreateor : MonoBehaviour {
 
 	void Update() {
 		if (chickList.Count != datasets.ChickList.Count) {
+			Debug.Log("field creator update if");
 			// 데이터가 추가될시
 			for (int i = 0; i < datasets.ChickList.Count; ++i) {
 				if (!chickList.Contains(datasets.ChickList[i])) {

@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TestBtn : MonoBehaviour {
+public class GameStageBtn : MonoBehaviour {
 	private Datasets datasets;
 
 	void Start() {
@@ -10,11 +10,12 @@ public class TestBtn : MonoBehaviour {
 	}
 	
 	public void onBuyBtnClick() {
+		Debug.Log("but btn click");
 		int gold = datasets.Gold;
 		if (gold >= 1000) {
 			List<int> eggList = datasets.EggList;
 			for (int i = 0; i < 10; ++i) {
-				if (eggList[i] == 0) {
+				if (eggList[i] <= 0) {
 					eggList[i] = 1000;
 					gold -= 1000;
 					datasets.Gold = gold;
