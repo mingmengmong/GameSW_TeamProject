@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TestBtn : MonoBehaviour {
 	private Datasets datasets;
@@ -24,4 +25,14 @@ public class TestBtn : MonoBehaviour {
 			}
 		}
 	}
+
+    public void goToDictionaryClick()
+    {
+        SceneManager.LoadScene(3);
+    }
+
+    public void goToFieldClick()
+    {
+        SceneManager.LoadScene(2);
+    }
 }

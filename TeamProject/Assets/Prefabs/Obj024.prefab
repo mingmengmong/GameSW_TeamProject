@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1356789976304369882}
   - component: {fileID: 8063462148671749383}
   m_Layer: 0
-  m_Name: FromEggs1_36
+  m_Name: Obj024
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -68,7 +68,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -499544264747321109, guid: 38bc72ef7265e4349af9d78251d93b5f,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
