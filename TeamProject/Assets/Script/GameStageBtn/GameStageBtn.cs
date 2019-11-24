@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 public class GameStageBtn : MonoBehaviour {
 	private Datasets datasets;
     AudioSource audiosource;
-	void Start() {
+    void Start()
+    {
 		datasets = GameObject.Find("Dataset").GetComponent<Datasets>();
 	}
 	
@@ -29,12 +30,12 @@ public class GameStageBtn : MonoBehaviour {
 
     public void goToDictionaryClick()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(2);
     }
 
     public void goToFieldClick()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
     public void clicksound()
