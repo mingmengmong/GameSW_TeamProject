@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 public class GameStageBtn : MonoBehaviour {
 	private Datasets datasets;
     AudioSource audiosource;
-	void Start() {
+    void Start()
+    {
 		datasets = GameObject.Find("Dataset").GetComponent<Datasets>();
 	}
 	

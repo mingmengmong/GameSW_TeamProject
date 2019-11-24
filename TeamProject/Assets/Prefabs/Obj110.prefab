@@ -100,7 +100,7 @@ MonoBehaviour:
   moveOrderSpriteArr: 00000000010000000000000001000000
   moveOrderTimeArr: c8000000c8000000c8000000c8000000
   isRandom: 1
-  isMoving: 1
+  isMoving: 0
   movingSpeed: 1.5
   movingTime: 400
   restTime: 400
