@@ -29,12 +29,12 @@ public class GameStageBtn : MonoBehaviour {
 
     public void goToDictionaryClick()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(2);
     }
 
     public void goToFieldClick()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
     public void clicksound()
