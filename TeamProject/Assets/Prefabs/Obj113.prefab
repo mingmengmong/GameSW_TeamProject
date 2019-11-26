@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1110822980946952282
+--- !u!1 &4855050618784904297
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,9 +8,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7651553814354914924}
-  - component: {fileID: 5810328495923140965}
-  - component: {fileID: 60724741487849841}
+  - component: {fileID: 6737494079949329252}
+  - component: {fileID: 8673080053291409029}
+  - component: {fileID: 5047173871905369304}
   m_Layer: 0
   m_Name: Obj113
   m_TagString: Untagged
@@ -18,13 +18,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7651553814354914924
+--- !u!4 &6737494079949329252
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1110822980946952282}
+  m_GameObject: {fileID: 4855050618784904297}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 1}
@@ -32,13 +32,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &5810328495923140965
+--- !u!212 &8673080053291409029
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1110822980946952282}
+  m_GameObject: {fileID: 4855050618784904297}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -70,37 +70,38 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: -207908318356995060, guid: f2be091743a3b184f8cf6be94956a7ef,
+  m_Sprite: {fileID: -7203249225590963440, guid: f2be091743a3b184f8cf6be94956a7ef,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.24, y: 3.67}
+  m_Size: {x: 1.9, y: 1.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &60724741487849841
+--- !u!114 &5047173871905369304
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1110822980946952282}
+  m_GameObject: {fileID: 4855050618784904297}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: db785c9433396e94baee756f1be100d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   move:
-  - {fileID: -207908318356995060, guid: f2be091743a3b184f8cf6be94956a7ef, type: 3}
-  - {fileID: -5047772364950551586, guid: f2be091743a3b184f8cf6be94956a7ef, type: 3}
-  moveOrderSpriteArr: 00000000010000000000000001000000
-  moveOrderTimeArr: 96000000960000009600000096000000
+  - {fileID: -7203249225590963440, guid: f2be091743a3b184f8cf6be94956a7ef, type: 3}
+  - {fileID: 5824660879472065829, guid: f2be091743a3b184f8cf6be94956a7ef, type: 3}
+  - {fileID: 3084507281140806459, guid: f2be091743a3b184f8cf6be94956a7ef, type: 3}
+  moveOrderSpriteArr: 0000000001000000000000000100000002000000
+  moveOrderTimeArr: c8000000c8000000c8000000c8000000c8000000
   isRandom: 1
   isMoving: 1
-  movingSpeed: 3
+  movingSpeed: 1.5
   movingTime: 400
-  restTime: 200
+  restTime: 400
