@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5946817165528407498}
   - component: {fileID: 6110760508293951567}
   - component: {fileID: 3313237820507569442}
+  - component: {fileID: 4998897806039177011}
   m_Layer: 0
   m_Name: Obj003
   m_TagString: Untagged
@@ -106,3 +107,17 @@ MonoBehaviour:
   movingSpeed: 1.5
   movingTime: 400
   restTime: 400
+--- !u!114 &4998897806039177011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3433323881608664951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6642878d6eed465a929b6a0e8031df01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectValue: 3
+  nextObjectValue: 103

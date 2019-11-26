@@ -4,8 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class Object_Moving : MonoBehaviour
-{
+public class Object_Moving : MonoBehaviour {
     // 이미지 스프라이트 리스트
     public Sprite[] move;
     // 이미지 순서 별 인덱스 리스트 ( 해당 인덱스는 스프라이트 리스트 인덱스를 나타낸다. )
