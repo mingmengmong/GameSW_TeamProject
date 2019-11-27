@@ -150,4 +150,18 @@ public class Datasets : MonoBehaviour
         ChickList = chickList;
         TakeObjList = takeObjList;
     }
+
+    public void init()
+    {
+        Gold = 0;
+        List<int> egList = new List<int>();
+        for (int i = 0; i < 10; ++i) {
+            egList.Add(0);
+        }
+
+        EggList = egList;
+        ChickList = new List<int>();
+        TakeObjList = new List<int>();
+        CanTakeObjList = StaticData.CHICK_OBJECT_LIST.ToList();
+    }
 }

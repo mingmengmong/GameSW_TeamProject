@@ -5,20 +5,23 @@ using UnityEngine.SceneManagement;
 
 public class ButtonClick : MonoBehaviour
 {
+    private Datasets dataset;
+
+    void Start()
+    {
+        dataset = GameObject.Find("Dataset").GetComponent<Datasets>();
+    }
     public void ChangeScene()
     {
-        SceneManager.LoadScene(sceneName: "Load_Menu");
+        SceneManager.LoadScene(sceneName: "Game_stage");
     }
 
     public void StartScene()
     {
+        dataset.init();
         SceneManager.LoadScene(sceneName: "Game_stage");
     }
     // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
