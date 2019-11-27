@@ -1,0 +1,1171 @@
+fileFormatVersion: 2
+guid: f2be091743a3b184f8cf6be94956a7ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5601306430717210739
+    second: FromEggs2.1_0
+  - first:
+      213: -1374653831654560477
+    second: FromEggs2.1_1
+  - first:
+      213: -1224980626558104485
+    second: FromEggs2.1_2
+  - first:
+      213: -5700700765925624640
+    second: FromEggs2.1_3
+  - first:
+      213: -5546538308368227252
+    second: FromEggs2.1_4
+  - first:
+      213: -4108684711361064023
+    second: FromEggs2.1_5
+  - first:
+      213: 1676944332438951999
+    second: FromEggs2.1_6
+  - first:
+      213: -4556072097849713930
+    second: FromEggs2.1_7
+  - first:
+      213: 7598135152069424951
+    second: FromEggs2.1_8
+  - first:
+      213: 369511268013958792
+    second: FromEggs2.1_9
+  - first:
+      213: -7876656167859573353
+    second: FromEggs2.1_10
+  - first:
+      213: -2899810358405788599
+    second: FromEggs2.1_11
+  - first:
+      213: 4936202966680791597
+    second: FromEggs2.1_12
+  - first:
+      213: -7203249225590963440
+    second: FromEggs2.1_13
+  - first:
+      213: 5824660879472065829
+    second: FromEggs2.1_14
+  - first:
+      213: 3084507281140806459
+    second: FromEggs2.1_15
+  - first:
+      213: -1407189504575872464
+    second: FromEggs2.1_16
+  - first:
+      213: -6789948270955974238
+    second: FromEggs2.1_17
+  - first:
+      213: 1186047723089389646
+    second: FromEggs2.1_18
+  - first:
+      213: -7216548201857491867
+    second: FromEggs2.1_19
+  - first:
+      213: 9189475351614863859
+    second: FromEggs2.1_20
+  - first:
+      213: 7808044534471229943
+    second: FromEggs2.1_21
+  - first:
+      213: 3581271393856790663
+    second: FromEggs2.1_22
+  - first:
+      213: -9030196165027152299
+    second: FromEggs2.1_23
+  - first:
+      213: -3117420877378134782
+    second: FromEggs2.1_24
+  - first:
+      213: -8736525901094335746
+    second: FromEggs2.1_25
+  - first:
+      213: -207908318356995060
+    second: FromEggs2.1_26
+  - first:
+      213: -5047772364950551586
+    second: FromEggs2.1_27
+  - first:
+      213: -6705200065554372929
+    second: FromEggs2.1_28
+  - first:
+      213: -7103658642595775212
+    second: FromEggs2.1_29
+  - first:
+      213: 6989295010603943558
+    second: FromEggs2.1_30
+  - first:
+      213: 8225202941674131819
+    second: FromEggs2.1_31
+  - first:
+      213: -3060133992787970726
+    second: FromEggs2.1_32
+  - first:
+      213: 7278612788644383494
+    second: FromEggs2.1_33
+  - first:
+      213: -4614983459200634069
+    second: FromEggs2.1_34
+  - first:
+      213: 966321844473889792
+    second: FromEggs2.1_35
+  - first:
+      213: -7608253305206251444
+    second: FromEggs2.1_36
+  - first:
+      213: 6039181399435006346
+    second: FromEggs2.1_37
+  - first:
+      213: -3940621596391724140
+    second: FromEggs2.1_38
+  - first:
+      213: 3979656174882118137
+    second: FromEggs2.1_39
+  - first:
+      213: -6390376448568912802
+    second: FromEggs2.1_40
+  - first:
+      213: 976543966811970456
+    second: FromEggs2.1_41
+  - first:
+      213: 3183075170080143231
+    second: FromEggs2.1_42
+  - first:
+      213: -4104490211304993045
+    second: FromEggs2.1_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FromEggs2.1_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 896
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd91c1530bcf0418afe4b3cbf3771c
+      internalID: -5601306430717210739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 907
+        width: 111
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926af08a73324b4d9e96ec96b781e84
+      internalID: -1374653831654560477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 877
+        width: 192
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecbbdfe5777204a82f39ca4f86e23d
+      internalID: -1224980626558104485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 875
+        width: 219
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010a196f223e54489effcd3cd3df606
+      internalID: -5700700765925624640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 892
+        width: 326
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345e833942c0ec448dea8bf385e4a86
+      internalID: -5546538308368227252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_5
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 879
+        width: 258
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dba47f0b57cd949aa9d72beb390dac
+      internalID: -4108684711361064023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_6
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 889
+        width: 273
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c298b1b452f6718469a90cf037003639
+      internalID: 1676944332438951999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 881
+        width: 273
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abeacb6824b15943b2b1c88f891a6cf
+      internalID: -4556072097849713930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 318
+        width: 20
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0a4bd70f7771240a3791f05b8e32f4
+      internalID: 7598135152069424951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 314
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14759983a92f0f74fa99b610ae0c885b
+      internalID: 369511268013958792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 758
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769951bea608b334a805f98f691dcbbe
+      internalID: -7876656167859573353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 768
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6718a5347791e6a4ea54e5f5cd226850
+      internalID: -2899810358405788599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 770
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e648b1193677ed943a671e0e23e756bc
+      internalID: 4936202966680791597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 698
+        width: 190
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9e9574d9cab6408a1e1a13663db0f
+      internalID: -7203249225590963440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 721
+        width: 190
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53203e095dfd49642a6d1679e9e328ed
+      internalID: 5824660879472065829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_15
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 715
+        width: 187
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671dfb2fc33f7a40bcd831cd00bf157
+      internalID: 3084507281140806459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_16
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 776
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1bdde100369f489780acd17575e1b
+      internalID: -1407189504575872464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_17
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 770
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551d4fdf68605634383da9aaa7c3869d
+      internalID: -6789948270955974238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 781
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31314319251a34ebad0650509275de
+      internalID: 1186047723089389646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_19
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 782
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f803100707674ca5dcdeae744c1a3
+      internalID: -7216548201857491867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_20
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 713
+        width: 148
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeadb7b8d165834fa4b69c3b8874c37
+      internalID: 9189475351614863859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_21
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 715
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96f89efb8f6b746a3e73c4c21f21d0
+      internalID: 7808044534471229943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_22
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 720
+        width: 83
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae470180cacdd64fb4cf57c28983c39
+      internalID: 3581271393856790663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_23
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 724
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62aa6b9605c99d4297979741e27e5c4
+      internalID: -9030196165027152299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_24
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 730
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af1de1f0ccc5e489b25c43a82b9aad
+      internalID: -3117420877378134782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 346
+        width: 456
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda9a24a64088a742ae64509353f7107
+      internalID: -8736525901094335746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 342
+        width: 224
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5f4d1bff59654fbe7053e4aaa428b
+      internalID: -207908318356995060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 333
+        width: 224
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ecf618ffb785a46bdaa22f60862316
+      internalID: -5047772364950551586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_28
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 450
+        width: 324
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea23d0d12bf104184493f18e69cb30
+      internalID: -6705200065554372929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_29
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 425
+        width: 463
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad005a1160ff3f489a7e7bf94b27b8b
+      internalID: -7103658642595775212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_30
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 494
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce042dd31724dd248b23a9f5864e7e92
+      internalID: 6989295010603943558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 21
+        width: 439
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2b01a22833e2499bbd155a176903b
+      internalID: 8225202941674131819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2
+        width: 286
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b9820f33e0a1a4a8b96041cbe20566
+      internalID: -3060133992787970726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_33
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 7
+        width: 274
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf02687d8fd944390bfd6f8cfecf53
+      internalID: 7278612788644383494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_34
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 152
+        width: 324
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7263fa314debb46bbfc1e3ad2bf336
+      internalID: -4614983459200634069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_35
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 159
+        width: 464
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e6b24c14625840bea7e82395f3b0c
+      internalID: 966321844473889792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_36
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 157
+        width: 111
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b74a573491ad43b42f6e7b9ba4875
+      internalID: -7608253305206251444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_37
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 158
+        width: 40
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd8fc92f70bd67458c3ab510565a16b
+      internalID: 6039181399435006346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1
+        width: 261
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608922a8dcdf50247a347a965d12c595
+      internalID: -3940621596391724140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_39
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 21
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61f000e0a0c834ebf31f507468ea47
+      internalID: 3979656174882118137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_40
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 27
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f026694172e24cb7e7159c4a96351
+      internalID: -6390376448568912802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_41
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 16
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1efc03710e05064da5d6419d05dd6af
+      internalID: 976543966811970456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_42
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 11
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb46475012f69d4a92d5f89fb5e6303
+      internalID: 3183075170080143231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FromEggs2.1_43
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 11
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5615e77c9f8484b92627d6b4caa6b3
+      internalID: -4104490211304993045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4505016323375192270}
   - component: {fileID: 966991290613155105}
   - component: {fileID: -4318174840316576527}
+  - component: {fileID: -6685182403527970123}
   m_Layer: 0
   m_Name: Obj000
   m_TagString: Untagged
@@ -69,7 +70,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -2000909563259068286, guid: 188d644a95731b3478b997cb551e7894,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -96,13 +97,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   move:
   - {fileID: -5800265042852672613, guid: 188d644a95731b3478b997cb551e7894, type: 3}
-  - {fileID: -5800265042852672613, guid: 188d644a95731b3478b997cb551e7894, type: 3}
-  - {fileID: -5800265042852672613, guid: 188d644a95731b3478b997cb551e7894, type: 3}
-  - {fileID: -5800265042852672613, guid: 188d644a95731b3478b997cb551e7894, type: 3}
+  - {fileID: 3221487811672024397, guid: 188d644a95731b3478b997cb551e7894, type: 3}
+  - {fileID: 2840490946398610653, guid: 188d644a95731b3478b997cb551e7894, type: 3}
+  - {fileID: -9063078630400483616, guid: 188d644a95731b3478b997cb551e7894, type: 3}
   moveOrderSpriteArr: 0000000001000000000000000100000002000000030000000200000003000000
   moveOrderTimeArr: 6400000064000000640000006400000064000000640000006400000064000000
-  isRandom: 0
-  isMoving: 0
-  movingSpeed: 3.5
-  movingTime: 800
-  restTime: 800
+  isRandom: 1
+  isMoving: 1
+  movingSpeed: 1.5
+  movingTime: 400
+  restTime: 400
+--- !u!114 &-6685182403527970123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6673766281267191382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6642878d6eed465a929b6a0e8031df01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectValue: 0
+  nextObjectValue: 100

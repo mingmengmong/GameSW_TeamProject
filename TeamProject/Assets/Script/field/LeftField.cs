@@ -19,7 +19,7 @@ public class LeftField : MonoBehaviour {
 	}
 
 	private void OnMouseDown() {
-		Debug.Log("left field click");
+//		Debug.Log("left field click");
 		gold += 111;
 		datasets.Gold = gold;
 		goldText.text = gold.ToString("N0");
